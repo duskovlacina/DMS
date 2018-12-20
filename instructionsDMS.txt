@@ -1,0 +1,13 @@
+GitHub:
+
+https://github.com/duskovlacina/DMS
+
+Eclipse Java EE IDE for Web Developers
+Version: Oxygen.3 Release (4.7.3)
+Installed Spring Tools 3 Add-On 3.9.5.RELEASE
+
+MySQL Workbench
+Version: 6.3.10
+
+Import in Eclipse as MAVEN project
+DmsApplication.java run as Spring Boot App to run project
